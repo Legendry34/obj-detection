@@ -1,0 +1,13 @@
+body {
+    background-image: radial-gradient(yellow, orange, red);
+}
+
+.aarav {
+    border-radius:50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: wheat;
+    background-color: white;
+    font-size: 25px;
+
+}
